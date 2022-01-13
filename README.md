@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Leonardo Gonçalves 
-- Estudante de Sistemas de Informação pela UNESA, atualmente no 4° Semestre
+- Estudante de Sistemas de Informação pela UNESA, atualmente o 4° Semestre
 - Apaixonado por aprender novas tecnologias 
 - focado em desenvolvimento Front-End.
 

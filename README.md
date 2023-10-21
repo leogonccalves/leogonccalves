@@ -4,7 +4,7 @@
 - focado em desenvolvimento FullStack.
 
 ### Tecnologias 
-- Desenvolvimento Front-End com HTML, CSS, Javascript, JSF, TypeScript, Angular, React.js.
+- Desenvolvimento Front-End com HTML, CSS, Javascript, JSF, JSP, TypeScript, Angular, React.js.
 - Desenvolvimento Back-End com Java, Spring, Spring Boot, Node.js.
 
 - Git, GitHub, Bitbucket...

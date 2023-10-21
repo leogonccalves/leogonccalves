@@ -1,11 +1,13 @@
 ### Olá! Eu sou o Leonardo Gonçalves 
 - Estudante de Sistemas de Informação pela UNESA, atualmente no 7° Semestre
 - Apaixonado por aprender novas tecnologias 
-- focado em desenvolvimento Front-End.
+- focado em desenvolvimento FullStack.
 
 ### Tecnologias 
-- Desenvolvimento Front-End com HTML, CSS, Javascript
-- Aprendendo sobre React.js, Git.
+- Desenvolvimento Front-End com HTML, CSS, Javascript, JSF, TypeScript, Angular, React.js.
+- Desenvolvimento Back-End com Java, Spring, Spring Boot, Node.js.
+
+- Git, GitHub, Bitbucket...
 
 ##
 

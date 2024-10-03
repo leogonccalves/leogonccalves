@@ -1,5 +1,4 @@
 ### Olá! Eu sou o Leonardo Gonçalves 
-- Estudante de Sistemas de Informação pela UNESA, atualmente no 7° Semestre
 - Apaixonado por aprender novas tecnologias 
 - focado em desenvolvimento FullStack.
 
